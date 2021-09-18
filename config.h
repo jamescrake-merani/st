@@ -6,6 +6,7 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 static char *font = "Jetbrains Mono:pixelsize=30:antialias=true:autohint=true";
+static char *font2[] = {"JoyPixels:pixelsize=10:antialias=true:autohint=true"};
 static int borderpx = 2;
 
 // Opacity
