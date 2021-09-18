@@ -10,3 +10,4 @@ My build of simple terminal. Not too different from vanilla
 - Alpha
 - Scrollback
 - Scrollback-mouse
+- Font2
